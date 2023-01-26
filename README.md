@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Marcus Ruth - [Github](https://github.com/PrincessRuth90)   
-Ifeanyi Nze - [Github](https://github.com/Nzify) 
+Oliver Samuel - [Github](https://github.com/Tecnophille)   
+Jane Affamuefuna - [Github](https://github.com/Jayneey) 
 
 
 ## License
